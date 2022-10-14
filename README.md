@@ -34,3 +34,6 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+====================================
+Completed 10/13/22.
